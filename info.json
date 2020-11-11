@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3a861c7eb21ca423e615d4d872f287028c9c6bf7",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2020-11-11 14:43:06",
+    "files": 1,
+    "merge": false,
+    "message": "Another dummy commit\n"
+  },
+  "remote": "https://github.com/ropensci/jenkins",
+  "pkg": "jenkins"
+}

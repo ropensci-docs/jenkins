@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0bbdc80a7fbb4a2b02f96f8d8e6f10ec0c40e80f",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2021-05-17 14:16:50",
+    "files": 1,
+    "merge": false,
+    "message": "Ignore delete errors\n"
+  },
+  "repo": "https://github.com/ropensci/jenkins",
+  "pkg": "jenkins"
+}

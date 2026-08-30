@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "2963fcecc5483029a1c6a551b63423035b947f89",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2024-09-09T17:50:42Z",
+    "files": 1,
+    "merge": false,
+    "message": "Update maintainer email\n"
+  },
+  "repo": "https://github.com/ropensci/jenkins",
+  "pkg": "jenkins",
+  "time": "2026-08-30T07:09:42Z"
+}
